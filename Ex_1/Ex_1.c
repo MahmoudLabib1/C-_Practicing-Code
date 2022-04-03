@@ -6,8 +6,9 @@
  *
  * [File Name]: Ex_1.c
  *
- * [Author]: Mahmoud_Labib
+ * [Difficulty]: Basic Level
  *
+ * [Author]: Mahmoud_Labib
  *
  *******************************************************************************/
 
