@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
 	printf("\nEnter the power : ");
 	scanf("%d",&power);
 
-	printf("\n The resylt is : %d\n",clcPower(num, power));
+	printf("\n The result is : %d\n",clcPower(num, power));
 
 	system("pause");   //To make the terminal not closed after executing the code
 	return 0;
