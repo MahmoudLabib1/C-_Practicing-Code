@@ -1,8 +1,8 @@
 /*******************************************************************************
  *
- * [Description]: Write The implementation code to found square root
+ * [Description]: Write The implementation code to found square and Cubice root
  *
- * [File Name]: sqroot.c
+ * [File Name]: sqroot_cbroot.c
  *
  * [Difficulty]: Medium Level
  *
