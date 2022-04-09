@@ -13,7 +13,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int countONEs(int n){
+int countONEs(unsigned int n){
 	unsigned int mask=0x80000000;
 	int i, count=0;
 	for(i=0 ; i<32 ; i++){
